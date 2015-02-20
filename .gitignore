@@ -1,0 +1,13 @@
+lib
+build
+distrib
+target
+nbproject/private
+.DS_Store
+*.md.html
+src/test/resources/cloudstorage.user.properties
+src/test/resources/cloudstorage.properties
+
+.classpath
+.project
+.settings
